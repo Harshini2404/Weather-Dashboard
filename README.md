@@ -7,7 +7,6 @@ This project is a weather dashboard application built using HTML, CSS, and JavaS
 - **Search Functionality:** Users can input any city name to retrieve weather data instantly.
 - **Weather Details:** Display of current temperature, weather description, humidity, wind speed, and UV index.
 - **Forecast:** A 5-day forecast showing predicted weather conditions.
-- **Responsive Design:** The dashboard is designed to be responsive and accessible across different devices.
 
 ## Technologies Used
 - HTML5 for the structure of the dashboard.
